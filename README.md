@@ -18,6 +18,6 @@
 ## Planos:
 * Pretendo aprimorar meu conhecimento na área da Tecnologia cada vez mais, e seguir nas áreas que me identifico mais.
 
-## Instagram: https://www.instagram.com/gui_moraless
+## Instagram: https://www.instagram.com/gui_moralees
 
 
