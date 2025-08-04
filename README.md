@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Guizinn77/Guizinn77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Dados Pessoais:
+* Nome: Guillermo Fernando Morales
+* Data de Nascimento: 14/05/2006
+* Naturalidade: Argentino
+* Telefone: (55)99175-8446
+* Email: guillermo0146123@gmail.com
+* CPF: 602.064.800-16
+* RG: 4129231207
+* Endereço: Avenida Paraíso
+* Número: 665
+* Rua: Centro
+  
+## Características:
+* Estou cursando o Técnico em Informática;
+* Tenho um pouco de conhecimento na montagem de computadores;
+* 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
