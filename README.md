@@ -6,15 +6,16 @@
 * Naturalidade: Argentino
 * Telefone: (55)99175-8446
 * Email: guillermo0146123@gmail.com
-* CPF: 602.064.800-16
-* RG: 4129231207
-* Endereço: Avenida Paraíso
-* Número: 665
-* Rua: Centro
+* Endereço: Agudo/RS
   
 ## Características:
 * Estou cursando o Técnico em Informática;
 * Tenho um pouco de conhecimento na montagem de computadores;
-* 
+* Tenho um pouco de conhecimento na nutrição e na saúde do corpo humano;
+* Tenho facilidade em Inglês e sou fluente em Espanhol;
+* Tenho bastante criatividade.
+
+## Planos:
+* Pretendo aprimorar meu conhecimento na área da Tecnologia cada vez mais, e seguir nas áreas que me identifico mais.
 
 
